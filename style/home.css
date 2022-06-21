@@ -1,0 +1,50 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+@import url("https://fonts.googleapis.com/css2?family=Exo:wght@900&display=swap");
+
+body {
+  background-color: #212121;
+  color: aliceblue;
+}
+
+#brand-title {
+  font-family: "Exo", sans-serif;
+}
+
+#home_icon {
+  color: #212121;
+  background-color: #dd2c00;
+  /* background-color: #d50000; */
+}
+
+#account_icon {
+  color: #212121;
+}
+
+#friend_req {
+  color: #212121;
+}
+
+#site_icon {
+  color: #212121;
+}
+
+#notifications {
+  color: #212121;
+}
+
+#post_time {
+  font-size: x-small;
+  color: #e0e0e0;
+}
+
+#user_name {
+  font-weight: bold;
+}
+
+nav .badge {
+  position: relative;
+  top: 42px;
+  right: 62px;
+}
